@@ -1,6 +1,7 @@
 from datetime import datetime 
 from queue import Queue
 
+
 class queue:
     '''defines what will be happening in a queue'''
     
